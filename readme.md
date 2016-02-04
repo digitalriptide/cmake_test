@@ -1,4 +1,4 @@
-CMake Does Not Use -system with GCC on OS X
+CMake Does Not Use -isystem with GCC on OS X
 ===========================================
 
 This is the simplest possible test case that I was able to generate to demonstrate
